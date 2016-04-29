@@ -1,0 +1,9 @@
+tile.storage_core.name=存储核心
+tile.storage_box.name=存储模块
+tile.condensed_storage_box.name=密集存储模块
+tile.hyper_storage_box.name=超级存储模块
+tile.input_port.name=输入端口
+tile.output_port.name=输出端口
+tile.crafting_box.name=合成模块
+tile.search_box.name=搜索模块
+itemGroup.EZStorage=EZ存储
